@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "Basicdemo"
+	},
+	{
+		"path": "../OneDrive/Documents/OneDrive/Desktop/asserts"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Basicdemo"
+  }
+}
